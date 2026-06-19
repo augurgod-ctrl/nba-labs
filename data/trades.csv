@@ -1,2 +1,5 @@
 trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe,result_r,notes
 001,2026-06-18,US30,NY,3,85,78,1,72,8,65,2.5,Crime Scene #001 - ejemplo base
+002,2026-06-16,US30,NY,1,0,84,1,53,26.0,210.0,,Crime Scene #002 - NY Open auto
+003,2026-06-17,US30,NY,1,0,19,1,40,14.0,296.0,,Crime Scene #003 - NY Open auto
+004,2026-06-18,US30,NY,1,0,50,0,36,273.0,100.0,,Crime Scene #004 - NY Open auto

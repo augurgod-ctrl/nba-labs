@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# SQLite WAL temporals
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Locks de Office
+.~lock.*
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Datos sensibles (no subir DB local, sí el CSV)
+# data/nba_labs.db  ← opcional: descomenta si no quieres versionar la DB
+
+# Screenshots (pueden ser grandes)
+# research/screenshots/

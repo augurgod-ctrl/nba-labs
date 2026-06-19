@@ -1,0 +1,40 @@
+name: NBA Labs — Daily US30 Fetch
+
+on:
+  schedule:
+    - cron: "30 11 * * 1-5"   # 11:30 UTC = 7:30 AM ET (pre-market) Lun–Vie
+    - cron: "0 15 * * 1-5"    # 15:00 UTC = 11:00 AM ET (post NY Open) Lun–Vie
+  workflow_dispatch:            # También se puede lanzar manualmente desde GitHub
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install yfinance pandas openpyxl
+
+      - name: Fetch US30 NY Open data
+        run: python scripts/fetch_us30.py --days 3 --trades 3
+
+      - name: Import to DB
+        run: python scripts/import_csv.py
+
+      - name: Commit new data
+        run: |
+          git config user.name  "NBA Labs Bot"
+          git config user.email "bot@nba-labs.local"
+          git add data/trades.csv data/nba_labs.db research/crime_scenes/
+          git diff --cached --quiet || git commit -m "auto: US30 NY Open $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

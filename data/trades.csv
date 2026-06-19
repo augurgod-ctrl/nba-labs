@@ -1,0 +1,2 @@
+trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe,result_r,notes
+001,2026-06-18,US30,NY,3,85,78,1,72,8,65,2.5,Crime Scene #001 - ejemplo base

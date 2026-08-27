@@ -209,3 +209,6 @@ trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe
 208,2026-08-24,US30,NY,2,0,38,-1,28,2.0,243.0,,Crime Scene #208 - NY Open auto
 209,2026-08-25,US30,NY,3,0,27,0,42,280.0,20.0,,Crime Scene #209 - NY Open auto
 210,2026-08-26,US30,NY,1,0,13,1,44,146.0,60.0,,Crime Scene #210 - NY Open auto
+211,2026-08-25,US30,NY,3,0,27,0,42,280.0,20.0,,Crime Scene #211 - NY Open auto
+212,2026-08-26,US30,NY,1,0,13,1,44,146.0,60.0,,Crime Scene #212 - NY Open auto
+213,2026-08-27,US30,NY,1,0,66,1,54,66.0,145.0,,Crime Scene #213 - NY Open auto

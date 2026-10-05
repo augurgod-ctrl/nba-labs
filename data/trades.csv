@@ -351,3 +351,5 @@ trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe
 350,2026-10-02,US30,NY,1,0,40,-1,33,238.0,60.0,,Crime Scene #350 - NY Open auto
 351,2026-10-02,US30,NY,1,0,40,-1,33,238.0,60.0,,Crime Scene #351 - NY Open auto
 352,2026-10-05,US30,NY,1,0,39,-1,58,258.0,40.0,,Crime Scene #352 - NY Open auto
+353,2026-10-02,US30,NY,1,0,40,-1,33,238.0,60.0,,Crime Scene #353 - NY Open auto
+354,2026-10-05,US30,NY,1,0,39,-1,58,258.0,40.0,,Crime Scene #354 - NY Open auto

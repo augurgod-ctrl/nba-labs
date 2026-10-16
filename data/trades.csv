@@ -398,3 +398,6 @@ trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe
 397,2026-10-14,US30,NY,2,0,34,1,51,42.0,270.0,,Crime Scene #397 - NY Open auto
 398,2026-10-15,US30,NY,3,0,45,-1,39,181.0,81.0,,Crime Scene #398 - NY Open auto
 399,2026-10-16,US30,NY,2,0,57,-1,44,60.0,229.0,,Crime Scene #399 - NY Open auto
+400,2026-10-14,US30,NY,2,0,34,1,51,42.0,270.0,,Crime Scene #400 - NY Open auto
+401,2026-10-15,US30,NY,3,0,45,-1,39,181.0,81.0,,Crime Scene #401 - NY Open auto
+402,2026-10-16,US30,NY,2,0,57,-1,44,60.0,229.0,,Crime Scene #402 - NY Open auto

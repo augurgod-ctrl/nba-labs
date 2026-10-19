@@ -401,3 +401,5 @@ trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe
 400,2026-10-14,US30,NY,2,0,34,1,51,42.0,270.0,,Crime Scene #400 - NY Open auto
 401,2026-10-15,US30,NY,3,0,45,-1,39,181.0,81.0,,Crime Scene #401 - NY Open auto
 402,2026-10-16,US30,NY,2,0,57,-1,44,60.0,229.0,,Crime Scene #402 - NY Open auto
+403,2026-10-16,US30,NY,2,0,57,-1,44,60.0,229.0,,Crime Scene #403 - NY Open auto
+404,2026-10-19,US30,NY,3,0,50,1,34,69.0,149.0,,Crime Scene #404 - NY Open auto

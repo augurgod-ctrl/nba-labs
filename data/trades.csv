@@ -431,3 +431,5 @@ trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe
 430,2026-10-26,US30,NY,2,0,50,-1,56,131.0,175.0,,Crime Scene #430 - NY Open auto
 431,2026-10-23,US30,NY,2,0,60,1,44,294.0,90.0,,Crime Scene #431 - NY Open auto
 432,2026-10-26,US30,NY,2,0,50,-1,56,131.0,175.0,,Crime Scene #432 - NY Open auto
+433,2026-10-26,US30,NY,2,0,50,-1,56,131.0,175.0,,Crime Scene #433 - NY Open auto
+434,2026-10-27,US30,NY,2,0,40,-1,35,152.0,95.0,,Crime Scene #434 - NY Open auto

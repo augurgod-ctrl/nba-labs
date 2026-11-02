@@ -455,3 +455,5 @@ trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe
 454,2026-10-30,US30,NY,1,0,51,0,48,336.0,21.0,,Crime Scene #454 - NY Open auto
 455,2026-10-30,US30,NY,1,0,51,0,48,336.0,21.0,,Crime Scene #455 - NY Open auto
 456,2026-11-02,US30,NY,3,0,27,-1,45,29.0,289.0,,Crime Scene #456 - NY Open auto
+457,2026-10-30,US30,NY,1,0,51,0,48,336.0,21.0,,Crime Scene #457 - NY Open auto
+458,2026-11-02,US30,NY,3,0,27,-1,45,29.0,289.0,,Crime Scene #458 - NY Open auto

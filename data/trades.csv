@@ -499,3 +499,6 @@ trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe
 498,2026-11-10,US30,NY,2,0,48,-1,51,206.0,100.0,,Crime Scene #498 - NY Open auto
 499,2026-11-11,US30,NY,3,0,28,1,38,280.0,41.0,,Crime Scene #499 - NY Open auto
 500,2026-11-12,US30,NY,3,0,37,0,26,139.0,151.0,,Crime Scene #500 - NY Open auto
+501,2026-11-11,US30,NY,3,0,28,1,38,280.0,41.0,,Crime Scene #501 - NY Open auto
+502,2026-11-12,US30,NY,3,0,37,0,26,139.0,151.0,,Crime Scene #502 - NY Open auto
+503,2026-11-13,US30,NY,3,0,21,1,50,521.0,20.0,,Crime Scene #503 - NY Open auto

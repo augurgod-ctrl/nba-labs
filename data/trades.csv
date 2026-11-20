@@ -525,3 +525,6 @@ trade_id,date,symbol,session,regime,gravity,velocity,htf_bias,air_pocket,mae,mfe
 524,2026-11-17,US30,NY,1,0,27,-1,56,0.0,328.0,,Crime Scene #524 - NY Open auto
 525,2026-11-18,US30,NY,1,0,60,-1,48,365.0,69.0,,Crime Scene #525 - NY Open auto
 526,2026-11-19,US30,NY,1,0,36,-1,59,526.0,54.0,,Crime Scene #526 - NY Open auto
+527,2026-11-18,US30,NY,1,0,60,-1,49,361.0,73.0,,Crime Scene #527 - NY Open auto
+528,2026-11-19,US30,NY,1,0,37,-1,58,526.0,54.0,,Crime Scene #528 - NY Open auto
+529,2026-11-20,US30,NY,1,0,19,-1,48,76.0,494.0,,Crime Scene #529 - NY Open auto
